@@ -11,7 +11,7 @@ Welcome to Cheap AI Chess, where chess meets affordability! This project is dedi
 
 ## How to Get Started 🚀
 
-1. **Clone the Repository:** Get the project files by cloning the repository [here](#).
+1. **Clone the Repository:** Get the project files by cloning the repository [here](https://github.com/vatistasdimitris/Cheap-AI-Chess.git).
 2. **Install Dependencies:** Follow the instructions in the README to set up the project.
 3. **Play Chess:** Launch the application and start playing against AI opponents.
 
